@@ -8,11 +8,6 @@ This project provides a decentralized **Intellectual Property (IP) Registry** sy
 - [Features](#features)
 - [Technologies](#technologies)
 - [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Smart Contracts](#smart-contracts)
-- [License](#license)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -47,4 +42,8 @@ The system architecture of the Intellectual Property Registry includes the follo
 4. **Backend API**: An optional backend that interacts with the blockchain to facilitate user actions, such as IP registration and verification.
 
 # Contract Details
-![alt text](image.png)# Intellectual-Property-Registry
+Contract ID:
+CC5XFFA2O4Z3CHQ75INWKGLKKBGGLQ4A42BK5FJXN3M7H7UOMI5T5A6J
+
+<img width="1909" height="912" alt="image" src="https://github.com/user-attachments/assets/57c4580c-735b-47f5-8418-87b5d590d554" />
+
