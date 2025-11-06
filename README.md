@@ -4,15 +4,7 @@
 
 This repository uses the recommended structure for a Soroban project:
 
-
-├── contracts
-│   └── hello_world
-│       ├── src
-│       │   ├── lib.rs
-│       │   └── test.rs
-│       └── Cargo.toml
-├── Cargo.toml
-└── README.md
+<img width="996" height="267" alt="image" src="https://github.com/user-attachments/assets/d8f6a684-6bb3-41e6-a855-36a07526739a" />
 
 
 - New Soroban contracts can be put in `contracts`, each in their own directory. There is already a `hello_world` contract in there to get you started.
